@@ -74,8 +74,7 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget 
 
 
 
-### GET Akses Script 
-Telegram : 
+### My Telegram : 
 ### https://t.me/ronggolawe1986
 ### JOIN Grup For Get Acces Script
 ### https://t.me/+0nBWSr6YAZ4zMGQ1
