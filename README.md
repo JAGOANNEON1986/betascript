@@ -80,7 +80,6 @@ Telegram :
 JOIN Grup For Get Acces Script
 ### https://t.me/+0nBWSr6YAZ4zMGQ1
 ### Link Donate
-```
-https://saweria.co/ronggolawe1986
-```
+### https://saweria.co/ronggolawe1986
+
 ### Thank you for stop by on my Github Blorr...
